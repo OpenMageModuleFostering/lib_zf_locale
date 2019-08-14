@@ -1,7 +1,7 @@
 {
     "name": "OpenMageModuleFostering/Lib_ZF_Locale",
     "type": "magento-module",
-    "license": "New-BSD-License",
+    "license": "New-BSD",
     "homepage": "",
     "description": "Zend Framework Locale",
     "authors": [
