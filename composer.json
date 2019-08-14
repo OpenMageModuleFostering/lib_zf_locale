@@ -6,8 +6,8 @@
     "description": "Zend Framework Locale",
     "authors": [
     {
-        "name": "Moshe",
-        "email": "moshe@varien.com"
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
     }
 ],
     "suggest": {
