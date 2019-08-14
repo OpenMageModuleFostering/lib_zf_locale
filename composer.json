@@ -1,10 +1,15 @@
 {
-    "name": "OpenMageModuleFostering/lib_zf_locale",
+    "name": "OpenMageModuleFostering/Lib_ZF_Locale",
     "type": "magento-module",
-    "license": "",
+    "license": "New-BSD",
     "homepage": "",
-    "description": "",
-    "authors": null,
+    "description": "Zend Framework Locale",
+    "authors": [
+    {
+        "name": "Magento Enterprise Team",
+        "email": "core@magentocommerce.com"
+    }
+],
     "suggest": {
         "magento-hackathon/magento-composer-installer": "*"
     }
